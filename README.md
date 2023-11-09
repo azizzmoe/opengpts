@@ -1,4 +1,4 @@
-# OpenGPTs 
+# OpenGPTs  
 
 This is an open source effort to create a similar experience as OpenAI's GPTs.
 This builds upon [LangChain](https://github.com/langchain-ai/langchain), [LangServe](https://github.com/langchain-ai/langserve) and [LangSmith](https://smith.langchain.com/)
